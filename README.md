@@ -8,7 +8,7 @@ At the end the program print a report, The report contains:
 *  The preparation time for each order.
 
 ## Execution instructions
-* Install Python (version 3.6 or higher).
+* Install Python
 * Clone this repo
 * From the  directory you clone this project run:
 `python pizzas.py "topping1, topping2" "topping1, topping2, topping3, topping4"`
